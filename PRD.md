@@ -148,7 +148,7 @@ The product does not require users to create an account for normal file-processi
 
 # 4. Product Areas
 
-The application consists of four primary areas.
+The application consists of three primary areas.
 
 ## 4.1 Public Website
 
